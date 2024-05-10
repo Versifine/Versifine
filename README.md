@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @Versifine
 - 🏫 I'm a computer science student at CUMT
 - 👀 I'm interested in muzik,programming and AI
-- 🌱 I'm currently learning cpp,python
+- 🌱 I'm currently learning cpp,python,flutter
 - 📫 How to reach me :
 -     📮:versifine@163.com
 
