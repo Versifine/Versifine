@@ -2,13 +2,12 @@
 
 # Versifine
 
-**Full-stack / Mobile Dev · Build, ship, iterate.**  
-Python · Java · C++ · Dart(Flutter) · Go
+**Full-stack / Mobile Developer · Building and Learning**  
+Java · C++ · Dart(Flutter) · Go
 
 <br/>
 
 <!-- Tech Badges -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -37,7 +36,7 @@ Python · Java · C++ · Dart(Flutter) · Go
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python / Java / C++ / Dart (Flutter) / Golang  
+- **Languages:** Java / C++ / Dart (Flutter) / Golang  
 - **Databases:** MySQL / MongoDB  
 - **Tools:** Git / Docker / VSCode  
 
@@ -47,14 +46,14 @@ Python · Java · C++ · Dart(Flutter) · Go
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Versifine&show_icons=true&hide_title=true&hide=prs&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Versifine&layout=compact" />
 
-</div>
+<!-- Streak Stats -->
+<img height="180" src="https://streak-stats.demolab.com?user=Versifine" />
 
-<!-- Optional: Streak (如果你喜欢“连胜”那种视觉刺激) -->
-<!--
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Versifine" />
+<!-- Contribution Graph -->
+<img height="180" src="https://github-readme-activity-graph.cyclic.app/graph?username=Versifine&theme=github" />
+
 </div>
--->
