@@ -34,19 +34,24 @@ Java · C++ · Dart(Flutter) · Go
 
 ---
 
-## 🧰 Tech Stack
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com? user=Versifine&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-- **Languages:** Java / C++ / Dart (Flutter) / Golang  
-- **Databases:** MySQL / MongoDB  
-- **Tools:** Git / Docker / VSCode  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Versifine&theme=flat&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Versifine&theme=transparent&hide_border=true" />
   
-  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api? username=Versifine&show_icons=true&theme=transparent&hide_border=true)
-  ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Versifine&layout=compact&theme=transparent&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com? user=Versifine&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+<img height="180" src="https://github-readme-stats-ten-rho-98.vercel.app/api?username=Versifine&show_icons=true&theme=transparent&hide_border=true" />
+<img height="180" src="https://github-readme-stats-ten-rho-98.vercel. app/api/top-langs/? username=Versifine&layout=compact&theme=transparent&hide_border=true" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Versifine&theme=flat&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
