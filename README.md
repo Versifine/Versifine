@@ -36,8 +36,6 @@ Java · C++ · Dart(Flutter) · Go
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-ten-rho-98.vercel.app/api? username=Versifine&show_icons=true&theme=transparent" />
+  <img height="180" src="https://github-readme-stats-ten-rho-98.vercel.app/api?username=Versifine&show_icons=true&theme=transparent" />
   <img height="180" src="https://github-readme-stats-ten-rho-98.vercel.app/api/top-langs/?username=Versifine&layout=compact&theme=transparent" />
-  <br/>
-  <img height="180" src="https://streak-stats.demolab.com?user=Versifine&theme=transparent" />
 </div>
