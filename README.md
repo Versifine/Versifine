@@ -50,10 +50,5 @@ Java · C++ · Dart(Flutter) · Go
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Versifine&show_icons=true&hide_title=true&hide=prs&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Versifine&layout=compact" />
 
-<!-- Streak Stats -->
-<img height="180" src="https://streak-stats.demolab.com?user=Versifine" />
-
-<!-- Contribution Graph -->
-<img height="180" src="https://github-readme-activity-graph.cyclic.app/graph?username=Versifine&theme=github" />
-
 </div>
+
