@@ -72,8 +72,8 @@
 
 * Minecraft (模组开发与协议逆向)
 * 音乐制作 (Ableton Live 12, Serum, 日系 Garage House)  
-* 探索物理与哲学 (探索意识与存在的本质)
-* 逗我的哈基米
+* 探索物理与哲学
+* 逗我的哈基米以及收听哈基米FM
 * 少女乐队爱好者 孤独摇滚
   
 <div align="center">
