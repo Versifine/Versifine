@@ -48,9 +48,11 @@
     <td width="45%" valign="top" align="center">
 
 <p align="left"><b>Versifine 的 GitHub 数据</b></p>
-<img src="https://github-readme-stats-ten-rho-98.vercel.app/api?username=Versifine&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Stats" />  
-<br>
 <img src="https://github-readme-stats-ten-rho-98.vercel.app/api/top-langs/?username=Versifine&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+<br>
+<img src="https://github-readme-stats-ten-rho-98.vercel.app/api?username=Versifine&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Stats" />  
+
+
 
 </td>
   </tr>
@@ -73,6 +75,11 @@
 * 探索物理与哲学 (探索意识与存在的本质)
 * 逗我的哈基米
 * 少女乐队爱好者 孤独摇滚
+  
+<div align="center">
+  <h3>✨ 访客数量 ✨</h3>
+  <img src="https://count.getloli.com/get/@Versifine?theme=rule34" alt="Versifine" />
+</div>
 
 <p align="left">
 </p>
